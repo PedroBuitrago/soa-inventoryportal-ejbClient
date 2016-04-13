@@ -1,4 +1,4 @@
-package co.com.qabox.soainvportal.exceptions;
+package co.com.qabox.soainvportal.exception;
 
 public class WebAppFriendlyException extends Exception {
 

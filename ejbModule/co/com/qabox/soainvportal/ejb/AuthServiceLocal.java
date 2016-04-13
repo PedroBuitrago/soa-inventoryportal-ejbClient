@@ -4,7 +4,7 @@ import java.util.Collection;
 
 import javax.ejb.Local;
 
-import co.com.qabox.soainv.exceptions.IntegrationException;
+import co.com.qabox.soainv.exception.IntegrationException;
 import co.com.qabox.soainvportal.to.IdentityDTO;
 import co.com.qabox.soainvportal.to.MenuDTO;
 
